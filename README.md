@@ -2,7 +2,7 @@
 
 ### Descripción:
 
-Contador con funcion de suma,resta y reseteo del valor.
+Contador con función de suma,resta y reseteo del valor.
 
 ### Pantalla Contador:
 
